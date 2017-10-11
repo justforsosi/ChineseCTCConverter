@@ -1,0 +1,7 @@
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTCodeToChinese\bin\Debug\ChineseTTCodeToChinese.dll.config
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTCodeToChinese\bin\Debug\ChineseTTCodeToChinese.dll
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTCodeToChinese\bin\Debug\ChineseTTCodeToChinese.pdb
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTCodeToChinese\bin\Debug\Newtonsoft.Json.dll
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTCodeToChinese\bin\Debug\Newtonsoft.Json.xml
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTCodeToChinese\obj\Debug\ChineseTTCodeToChinese.dll
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTCodeToChinese\obj\Debug\ChineseTTCodeToChinese.pdb

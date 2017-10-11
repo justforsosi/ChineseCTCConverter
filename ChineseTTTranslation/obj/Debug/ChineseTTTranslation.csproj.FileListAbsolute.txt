@@ -1,0 +1,14 @@
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\ChineseTTTranslation.exe.config
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\ChineseTTTranslation.exe
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\ChineseTTTranslation.pdb
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\ChineseTTCodeToChinese.dll
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\Newtonsoft.Json.dll
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\ChineseTTCodeToChinese.pdb
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\Newtonsoft.Json.xml
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\obj\Debug\ChineseTTTranslation.csprojResolveAssemblyReference.cache
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\obj\Debug\ChineseTTTranslation.exe
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\obj\Debug\ChineseTTTranslation.pdb
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\ChnCharInfo.dll
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\SimplifiedChinesePinYinConversion.dll
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\SimplifiedChinesePinYinConversion.xml
+c:\users\li.zhu\documents\visual studio 2015\Projects\ChineseTTTranslation\bin\Debug\zh-CN\ChnCharInfo.resources.dll

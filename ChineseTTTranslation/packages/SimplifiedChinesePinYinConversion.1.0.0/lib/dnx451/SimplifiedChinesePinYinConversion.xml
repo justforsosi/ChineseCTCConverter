@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SimplifiedChinesePinYinConversion</name>
+    </assembly>
+    <members>
+        <member name="M:System.StringExtension.ToPinYin(System.String)">
+            <summary>
+            获取汉字全拼
+            </summary>
+            <param name="chineseWords">中文汉字</param>
+            <returns>汉字全拼</returns>
+        </member>
+        <member name="M:System.StringExtension.ToPinYinAbbr(System.String)">
+            <summary>
+            获取汉字全拼的第一个字母。
+            </summary>
+            <param name="chineseWords">中文汉字</param>
+            <returns>拼音首字母</returns>
+        </member>
+    </members>
+</doc>
